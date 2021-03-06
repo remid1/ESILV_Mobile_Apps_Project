@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">bank</string>
+    <string name="textViewLogin">Authentification (use your password or define it)</string>
+    <string name="editTextLogin"></string>
+    <string name="buttonLogin">Login</string>
+    <string name="buttonCreate">Create Account</string>
+    <string name="textViewAccountName">Account Name: </string>
+    <string name="textViewAmount">Amount: </string>
+    <string name="textViewIban">IBAN: </string>
+    <string name="textViewCurrency">Currency: </string>
+    <string name="textView2">No account found</string>
+    <string name="textView">No config found</string>
+</resources>

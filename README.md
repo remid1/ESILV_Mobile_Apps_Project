@@ -1,4 +1,8 @@
-# ESILV_Mobile_Apps_Project
+#### ESILV_Mobile_Apps_Project
+
+
+
+## Question
 
 How you ensure user is the right one starting the app?
 
@@ -11,4 +15,6 @@ I save user's data by using Room Database. Room store it's sqlite file in app's 
 How did you hide the API url ?
 
 To hide the API url, I have choose to use C++ JNI native code to hide sensitive string data with NDK and CMake. Because C++ clases are stored inside generated .so files which are very hard to decompile
+
+
 

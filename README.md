@@ -24,5 +24,5 @@ To hide the API url, I have choose to use C++ JNI native code to hide sensitive 
 
 
 ### Create account function
-Their is a weird things when I tried to create account on the API. First I try with PostMan and it works we have the right to create new account. But when I have tried with my android application the json sent seems correct and something is added in the accounts, but it's not what I have sent.
+Their is a weird things when I tried to create account on the API. First I try with PostMan and it works we have the right to create new account. But when I have tried with my android application the json sent seems correct and something is added in the accounts, but it's not what I have sent. Indeed the Request return me a json with different information. 
 

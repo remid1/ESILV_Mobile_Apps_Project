@@ -19,4 +19,6 @@ To hide the API url, I have choose to use C++ JNI native code to hide sensitive 
 ### Screenshot
 
 ![Alt text]( src/screenshot/auth.png?raw=true "Title")
+![Alt text]( src/screenshot/vue.png?raw=true "Title")
+![Alt text]( src/screenshot/form.png?raw=true "Title")
 
